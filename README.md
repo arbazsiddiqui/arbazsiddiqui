@@ -5,9 +5,9 @@ The rest of the time I build my own things, from training the model to building 
 **Building**
 
 - [**Ozan-v1-12B**](https://huggingface.co/arbazsiddiqui/Ozan-v1-12B) · An open creative-writing model fine-tuned from Mistral-Nemo on $40 of GPU. Lowest slop score of any 12B measured on EQ-Bench. The [training recipe](https://github.com/arbazsiddiqui/Ozan) is public.
-- [**Iris**](https://www.arbazsiddiqui.me/iris) · A cycle tracker for iOS. Every feature free, twelve languages, health data never leaves the phone.
-- [**Mercuro**](https://www.arbazsiddiqui.me/mercuro) · Thermometer logic puzzles running on their own constraint solver. Native on iOS and Android.
-- [**The Footnote**](https://www.arbazsiddiqui.me/footnote) · A history channel that researches, scripts, voices and publishes itself.
+- [**Iris**](https://apps.apple.com/in/app/iris-period-cycle-tracker/id6761134901) · A cycle tracker for iOS. Every feature free, twelve languages, health data never leaves the phone.
+- [**Mercuro**](https://apps.apple.com/app/id6762402072) · Thermometer logic puzzles running on their own constraint solver. Native on iOS and Android.
+- [**The Footnote**](https://www.instagram.com/thefootnotemedia/) · A history channel that researches, scripts, voices and publishes itself.
 
 **Open source**
 
