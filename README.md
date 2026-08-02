@@ -1,6 +1,6 @@
 Backend engineer, nine years, mostly consumer products at scale. Principal Software Engineer at [Turnip](https://zaps.design), looking after the platform behind 25M users and the AI infrastructure sitting on top of it.
 
-The rest of the time I build my own things end to end, from training the model to writing the App Store listing.
+The rest of the time I build my own things, from training the model to building mobile apps.
 
 **Building**
 
