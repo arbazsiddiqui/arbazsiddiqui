@@ -9,7 +9,7 @@ The rest of the time I build my own things, from training the model to building 
 - [**Mercuro**](https://apps.apple.com/app/id6762402072) · Thermometer logic puzzles running on their own constraint solver. Native on iOS and Android. Featured in gaming newsletters.
 - [**The Footnote**](https://www.instagram.com/thefootnotemedia/) · A history channel that researches, scripts, voices and publishes itself. 500K+ monthly views.
 - [**Animated Hindi horror**](https://www.youtube.com/@AndheriDastak) · A model writes the screenplay, image models hold the cast across 25 shots, and Wan 2.2 animates it on rented GPUs. Under a dollar a film.
-- [**Iris growth pipeline**](https://www.instagram.com/iriscycletracker/) · The app markets itself. Posters generated, checked against a written creative contract, published daily. 100K+ monthly views.
+- [**Iris growth pipeline**](https://www.instagram.com/iriscycletracker/) · The app markets itself. Posters generated, checked against a written creative contract, published daily. 100K+ monthly views driving organic traffic.
 
 **Open source**
 
