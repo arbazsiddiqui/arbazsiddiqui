@@ -16,6 +16,4 @@ The rest of the time I build my own things, from training the model to building 
 - [**lru-cache-node**](https://github.com/arbazsiddiqui/lru-cache-node) · O(1) LRU cache for Node, with expiry and stale reads.
 - [**anabranch**](https://github.com/arbazsiddiqui/anabranch) · HTTP load balancer and reverse proxy in Go.
 
-**Mostly working in** Go, Node.js, Python, Kubernetes, Kafka, Postgres.
-
 [arbazsiddiqui.me](https://www.arbazsiddiqui.me) · [Hugging Face](https://huggingface.co/arbazsiddiqui) · [LinkedIn](https://www.linkedin.com/in/arbazsiddiqui) · [Writing](https://www.arbazsiddiqui.me/blog)
