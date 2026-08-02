@@ -1,16 +1,20 @@
-## Hi there 👋
+Backend engineer, nine years, mostly consumer products at scale. Principal Software Engineer at [Turnip](https://zaps.design), looking after the platform behind 25M users and the AI infrastructure sitting on top of it.
 
-<!--
-**arbazsiddiqui/arbazsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The rest of the time I build my own things end to end, from training the model to writing the App Store listing.
 
-Here are some ideas to get you started:
+**Building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Ozan-v1-12B**](https://huggingface.co/arbazsiddiqui/Ozan-v1-12B) · An open creative-writing model fine-tuned from Mistral-Nemo on $40 of GPU. Lowest slop score of any 12B measured on EQ-Bench. The [training recipe](https://github.com/arbazsiddiqui/Ozan) is public.
+- [**Iris**](https://www.arbazsiddiqui.me/iris) · A cycle tracker for iOS. Every feature free, twelve languages, health data never leaves the phone.
+- [**Mercuro**](https://www.arbazsiddiqui.me/mercuro) · Thermometer logic puzzles running on their own constraint solver. Native on iOS and Android.
+- [**The Footnote**](https://www.arbazsiddiqui.me/footnote) · A history channel that researches, scripts, voices and publishes itself.
+
+**Open source**
+
+- [**lru-cache-node**](https://github.com/arbazsiddiqui/lru-cache-node) · O(1) LRU cache for Node, with expiry and stale reads.
+- [**anabranch**](https://github.com/arbazsiddiqui/anabranch) · HTTP load balancer and reverse proxy in Go.
+
+**Mostly working in** Go, Node.js, Python, Kubernetes, Kafka, Postgres.
+
+[arbazsiddiqui.me](https://www.arbazsiddiqui.me) · [Hugging Face](https://huggingface.co/arbazsiddiqui) · [LinkedIn](https://www.linkedin.com/in/arbazsiddiqui) · [Writing](https://www.arbazsiddiqui.me/blog)
+
