@@ -4,7 +4,7 @@ The rest of the time I build my own things, from training the model to building 
 
 **Building**
 
-- [**Ozan-v1-12B**](https://huggingface.co/arbazsiddiqui/Ozan-v1-12B) · An open creative-writing model fine-tuned from Mistral-Nemo on $40 of GPU. Lowest slop score of any 12B measured on EQ-Bench. #1 trending on Hugging Face, 3K+ downloads. The [training recipe](https://github.com/arbazsiddiqui/Ozan) is public.
+- [**Ozan-v1-12B**](https://huggingface.co/arbazsiddiqui/Ozan-v1-12B) · An open creative-writing model fine-tuned from Mistral-Nemo on $40 of GPU. Lowest slop score of any 12B measured on EQ-Bench. #1 trending on Hugging Face, 3K+ downloads. Hosted on [Featherless](https://featherless.ai/models/arbazsiddiqui/Ozan-v1-12B), try it with no download. The [training recipe](https://github.com/arbazsiddiqui/Ozan) is public.
 - [**Iris**](https://apps.apple.com/in/app/iris-period-cycle-tracker/id6761134901) · A cycle tracker for iOS. Every feature free, twelve languages, health data never leaves the phone. 4.9 stars, 1,000+ downloads.
 - [**Mercuro**](https://apps.apple.com/app/id6762402072) · Thermometer logic puzzles running on their own constraint solver. Native on iOS and Android. Featured in gaming newsletters.
 - [**The Footnote**](https://www.instagram.com/thefootnotemedia/) · A history channel that researches, scripts, voices and publishes itself. 500K+ monthly views.
