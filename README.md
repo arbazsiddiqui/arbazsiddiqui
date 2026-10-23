@@ -5,8 +5,8 @@ The rest of the time I build my own things, from training the model to shipping 
 ### Models
 
 - [**VoxLock**](https://huggingface.co/arbazsiddiqui/voxlock) · Keeps the caller's voice and removes the other voices in the room before speech-to-text hears them. The lowest word error rate on the Krisp Voice Isolation Benchmark of every model tested, paid or open. Streams on CPU, works as a Pipecat audio filter, and runs in your browser: [try it on your own voice](https://www.arbazsiddiqui.me/voxlock/#demo). [Code](https://github.com/arbazsiddiqui/voxlock) · `pip install voxlock`
-- [**kev-0.6b-browser-use**](https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use) · A 0.6B decision model for browser agents that picks the element and the action in one forward pass. 32.2% step success on Mind2Web, level with Kev-9B at a fifteenth of the size, and it runs in the browser on WebGPU. [Code](https://github.com/arbazsiddiqui/kev-browser-use) · [Write-up](https://www.arbazsiddiqui.me/kev/)
 - [**Ozan-v1-12B**](https://huggingface.co/arbazsiddiqui/Ozan-v1-12B) · An open creative-writing model fine-tuned from Mistral-Nemo on $40 of GPU. Lowest slop score of any 12B measured on EQ-Bench. #1 trending on Hugging Face, 3K+ downloads. Hosted on [Featherless](https://featherless.ai/models/arbazsiddiqui/Ozan-v1-12B), try it with no download. The [training recipe](https://github.com/arbazsiddiqui/Ozan) is public.
+- [**kev-0.6b-browser-use**](https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use) · A 0.6B decision model for browser agents that picks the element and the action in one forward pass. 32.2% step success on Mind2Web, level with Kev-9B at a fifteenth of the size, and it runs in the browser on WebGPU. [Code](https://github.com/arbazsiddiqui/kev-browser-use) · [Write-up](https://www.arbazsiddiqui.me/kev/)
 
 ### Apps
 
